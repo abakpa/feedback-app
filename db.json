@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "If i am asking for loyalty, it means i am giving it as well",
+      "rating": 3,
+      "id": 1
+    },
+    {
+      "text": "If i am asking for loyalty, it means i am giving it as well ",
+      "rating": 4,
+      "id": 2
+    },
+    {
+      "text": "If i am asking for loyalty, it means i am giving it as well ",
+      "rating": 5,
+      "id": 3
+    }
+  ]
+}
